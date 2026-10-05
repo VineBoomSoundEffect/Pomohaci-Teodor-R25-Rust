@@ -44,7 +44,7 @@ fn beer() {
 }
 
 fn main() {
-    const N: u32 = 10;
+    const N: u32 = 100;
     {
         let mut i = 0;
         while i < N {
